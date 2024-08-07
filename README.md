@@ -28,8 +28,9 @@ Follow these steps to set up and run the app locally.
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/habit-tracker-app.git
+   git clone https://github.com/sushma-bhumireddy/habit-tracker-app.git
    cd habit-tracker-app
+   
    ```
 
 2. **Install Dependencies**
